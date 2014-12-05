@@ -270,7 +270,7 @@ span.banner-fix {
 section#main_content {
   z-index: 10;
   padding: 20px 82px 0;
-  min-height:500px;
+  min-height:200px;
 }
 
 /* footer */
